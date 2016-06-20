@@ -1,2 +1,3 @@
-the-office-website
-==================
+# The Office Website
+
+A Bootstrap prototype
